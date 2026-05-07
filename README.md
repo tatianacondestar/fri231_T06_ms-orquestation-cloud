@@ -1,3 +1,5 @@
+<img width="1178" height="697" alt="estructura" src="https://github.com/user-attachments/assets/6a48b5e7-1f96-4413-987b-9f57e4d667ac" />
+
 # Kubernetes Cloud + Seguridad Profesional
 
 ## Arquitectura
