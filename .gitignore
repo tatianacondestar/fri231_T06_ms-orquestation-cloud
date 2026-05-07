@@ -1,0 +1,5 @@
+.minikube/
+.cache/
+aws/
+awscliv2.zip
+minikube-linux-amd64
